@@ -1,1 +1,2 @@
-import datagen.py
+import datagen
+
